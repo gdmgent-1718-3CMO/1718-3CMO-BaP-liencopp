@@ -12,17 +12,28 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: $myfont-family-title;
     font-weight: $font-weight-bold;
+    
 }
 
 h1 {
     font-weight: $font-weight-light;
-    font-size: 4rem;
-    color: $color-grey-2;
+    font-size: 3rem;
+    color: $clientcolor-1;
+    
+}
+hr{
+    width: 100px;
+    position: relative;
+    margin-left: 0;
+    color: $clientcolor-2 !important;
+    border: solid 3px;
+
 }
 h2 {
     font-weight: $font-weight-light;
     font-size: 2rem;
     margin: 2rem 0 1rem;
+    color: $clientcolor-2;
 }
 h3, h4, h5, h6 {
     font-size: 1rem;
@@ -31,21 +42,18 @@ h3, h4, h5, h6 {
 a {
     text-decoration: none;
     color: $body-link;
-    border-bottom: dotted 1px $body-link;
+    // border-bottom: dotted 1px $body-link;
     &:hover{
-        color: $body-link;
+        color: $clientcolor-2;
         text-decoration: none;
-        border-bottom: solid 1px $body-link;
+        // border-bottom: solid 1px $body-link;
     }
-    &:active{
-        background-color: $body-link;
-        color: $color-white;
-    }
+   
     &:focus{}
 }
 blockquote {
     padding-left: 24px;
-    border-left: 2px solid $mycolor-5;
+    border-left: 2px solid $clientcolor-1;
 }
 
 // ongeordende lijstjes met een ander symbool of kleur
@@ -80,7 +88,7 @@ main ol {
         padding: 3px 6px;
         margin-right: 5px;
         border-radius: 5px;
-        background-color: $mycolor-5;
+        background-color: $clientcolor-2;
         color: $color-white;
         font-family: $myfont-family-title;
         font-weight: $font-weight-bold;
@@ -90,11 +98,21 @@ main ol {
 
 //forms 
 button, a.btn {
+    border-radius: 10%;
+    background-color: $clientcolor-2;
+    color: white;
+    &:hover{
+        background-color: $clientcolor-1;
+        color: white;
     
-    &:hover{}
+    }
     &:active{}
     &:focus{}
 }
 input[type=text], textarea {
 
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-left: 2rem;
 }

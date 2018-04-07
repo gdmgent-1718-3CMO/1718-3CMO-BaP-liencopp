@@ -1,30 +1,55 @@
 ---
-# layout: vertical
+layout: horizontal
 permalink: logo/
 published: true
-title: Logo intro
+title: Logo 
 ---
 
-# Het beste logo ooit
+# Logo
+<hr>
+## Verhaal
 
-## Consectetur adipiscing elit.
+<img src="{{ '/images/CoppensL_BgW_PMS7737C-PMS161C_groot.png' | relative_url }}" alt="logo" class="w-25">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Idem iste, inquam, de voluptate quid sentit? Istam voluptatem perpetuam quis potest praestare sapienti? Aliam vero vim voluptatis esse, aliam nihil dolendi, nisi valde pertinax fueris, concedas necesse est. Sed tamen enitar et, si minus multa mihi occurrent, non fugiam ista popularia. Sed ad bona praeterita redeamus. Duo Reges: constructio interrete. Atque ab isto capite fluere necesse est omnem rationem bonorum et malorum. Quamquam te quidem video minime esse deterritum.
+Het logo overkoepelt een heleboel projecten. Daarom is het logo heel herkenbaar.
+We kunnen het logo op verschillende manieren interpreteren. We kunnen het zien als een (t)huis waar leerlingen zich veillig en aanvaard voelen. Tegelijkertijd kan het ook geïnterpreteerd worden als een pijl naar boven. Deze duidt op de vooruitgang en evolutie die de leerlingen kunnen maken met de steun van Buitengewoon Werkt. 
 
-Aliud igitur esse censet gaudere, aliud non dolere. Eorum enim omnium multa praetermittentium, dum eligant aliquid, quod sequantur, quasi curta sententia; Duae sunt enim res quoque, ne tu verba solum putes. Illi enim inter se dissentiunt.
+## Gebruik
+We gebruiken het logo als we het over een project/minionderneming hebben of gewoon het overkoepelende Buitengewoon Werkt.
+In de pijl hebben we het woordje Buitengewoon. Dit duidt op het Buitengewoon onderwijs.
+In de stam van de pijl hebben we het woordje Werkt. Dit duidt op de verschillende projecten/miniondernemingen waarin de zesdejaars hun stage doen. 
 
-<a href="http://loripsum.net/" target="_blank">Sed potestne rerum maior esse dissensio?</a> Quid, de quo nulla dissensio est? Etenim semper illud extra est, quod arte comprehenditur. Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Eam tum adesse, cum dolor omnis absit; Eaedem enim utilitates poterunt eas labefactare atque pervertere.
+## Kleur
+We gebruiken de kleuren van Sint-Idesbald om een samenhorigheid uit te stralen.
 
-## Ne in odium veniam.
-    
-Pisone in eo gymnasio, quod Ptolomaeum vocatur, unaque nobiscum Q. Videmus igitur ut conquiescere ne infantes quidem possint. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; <a href="http://loripsum.net/" target="_blank">Quibusnam praeteritis?</a> <a href="http://loripsum.net/" target="_blank">Omnia peccata paria dicitis.</a> Praetereo multos, in bis doctum hominem et suavem, Hieronymum, quem iam cur Peripateticum appellem nescio. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Aliter homines, aliter philosophos loqui putas oportere? <mark>Age, inquies, ista parva sunt.</mark>
+We gebruiken het logo altijd in zijn geheel.
 
-- Hominum non spinas vellentium, ut Stoici, nec ossa nudantium, sed eorum, qui grandia ornate vellent, enucleate minora dicere.
-- Nam diligi et carum esse iucundum est propterea, quia tutiorem vitam et voluptatem pleniorem efficit.
-- Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit.
-- Naturales divitias dixit parabiles esse, quod parvo esset natura contenta.
-- Tum, Quintus et Pomponius cum idem se velle dixissent, Piso exorsus est.
-- Huic ego, si negaret quicquam interesse ad beate vivendum quali uteretur victu, concederem, laudarem etiam;
+## Grootte
+We hebben 2 soorten logo’s afhankelijk van de grootte. 
+De minimumhoogte voor het hoofdlogo is 2cm. 
+Als het logo kleiner komt de staan met een hoogte kleiner dan 2cm, wordt het 2e logo gebruikt. Hier zijn de detaillijnen in de woorden weg, dit verhoogt de leesbaarheid. 
+
+In samenplaatsing met het logo van Sint-Idesbald moeten beide logo’s optisch evenveel aanwezig zijn. 
+
+## Don’ts
+- Logo vervormen
+- Logo draaien
+- Logo afknippen
+- Kleuren omdraaien
+- Geen foto’s in plaatsen
+- Het logo niet op een achtergrond gebruiken die dezelfde kleuren van het logo bevatten.
+- Gebruik geen andere kleuren
+<img src="{{ '/images/Logo_gebruik_donts.png' | relative_url }}" alt="logo_donts" class="w-100">
+
+## Gebruik van foto’s
+Het logo kan als watermerk gebruikt worden voor project gerelateerde beelden. We plaatsen het logo op een plaats waar het zichtbaar is, maar toch het beeld niet stoort. Dit in de linkeronderhoek of de rechteronderhoek op de bepaalde afstand. 
 
 
-<mark>Primum Theophrasti, Strato, physicum se voluit;</mark> Quid affers, cur Thorius, cur Caius Postumius, cur omnium horum magister, Orata, non iucundissime vixerit? Eadem nunc mea adversum te oratio est. Sed vos squalidius, illorum vides quam niteat oratio. Modo etiam paulum ad dexteram de via declinavi, ut ad Pericli sepulcrum accederem. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. Quorum sine causa fieri nihil putandum est. Philosophi autem in suis lectulis plerumque moriuntur. Atqui reperies, inquit, in hoc quidem pertinacem; Deinde prima illa, quae in congressu solemus: Quid tu, inquit, huc?
+
+
+
+
+
+
+
+
