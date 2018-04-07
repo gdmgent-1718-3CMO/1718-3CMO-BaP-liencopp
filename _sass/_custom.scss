@@ -8,10 +8,7 @@
   background-color: $color-grey-0 !important;
 }
 
-/* FOOTER
-----------------------------------------------
-sticked to the bottom with small content pages
-*/
+/* Algemeen */
 html {
     height: 100%;
   }
@@ -21,14 +18,27 @@ body {
     margin: 0;
     padding-bottom: 6rem;
     min-height: 100%;
-    background-color: $clientcolor-2;
-  }
-  .col-12,col-md-3,col-lg-2,order-md-12 {
-    /*background-image: images/Logo_gebruik_donts.png;*/
+    background-color: $clientcolor-2; 
+    
+   }
+
+.col-12,col-md-3,col-lg-2,order-md-12 {
     background-color: $color-white;
     padding-top: 2rem;
+   
 } 
 
+.col-12 {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.order-md-12 {
+background-color: $color-grey-0;
+}
+/* FOOTER
+----------------------------------------------
+sticked to the bottom with small content pages
+*/
 .bh-absolute-bottom {
   position: absolute;
   right: 0;
@@ -39,12 +49,14 @@ body {
 footer {
     background-color: $mycolor-2;
     color: $color-white;
+    z-index: 98;
     a {
         color: $color-white;
         &:hover {
             
         }
     }
+    
 }
 
 /* BACK TO TOP

@@ -19,7 +19,8 @@ h1 {
     font-weight: $font-weight-light;
     font-size: 3rem;
     color: $clientcolor-1;
-    
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 hr{
     width: 100px;
@@ -48,6 +49,7 @@ a {
         text-decoration: none;
         // border-bottom: solid 1px $body-link;
     }
+
    
     &:focus{}
 }

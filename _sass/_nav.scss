@@ -33,9 +33,21 @@
  --------------------------- */
  #toc {
     margin-bottom: 1em;
+    
     .nav {
         display: block;
     }
+    li, h2 {
+        margin-left: 1em;
+    }
+    li {
+        padding: 5px 0px 3px;
+        font-size: 10px;
+        text-transform: uppercase;
+        text-indent: 5px 0px 3px;
+        letter-spacing: 2px;
+    }
+    
 
  } 
 
