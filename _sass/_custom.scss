@@ -2,8 +2,10 @@
 ---------------------------------------------
 */
 .navbar a {
-    border: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
+
 .bg-light {
   background-color: $color-grey-0 !important;
 }
@@ -16,25 +18,32 @@ html {
 body {
     position: relative;
     margin: 0;
-    padding-bottom: 6rem;
+    padding-bottom: 250px;
     min-height: 100%;
     background-color: $clientcolor-2; 
-    
    }
 
-.col-12,col-md-3,col-lg-2,order-md-12 {
+.kader {
     background-color: $color-white;
     padding-top: 2rem;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
    
 } 
-
-.col-12 {
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
+a .nav-logo img {
+  :hover{
+    border: none;
+  }
 }
+
 .order-md-12 {
 background-color: $color-grey-0;
 }
+
+
+
+
+
 /* FOOTER
 ----------------------------------------------
 sticked to the bottom with small content pages
@@ -47,7 +56,9 @@ sticked to the bottom with small content pages
 }
 
 footer {
-    background-color: $mycolor-2;
+  text-align: center;  
+  font-size: 12px;  
+    background-color: $mycolor-2 !important;
     color: $color-white;
     z-index: 98;
     a {
@@ -81,5 +92,36 @@ footer {
   &:hover {
     background-color: $clientcolor-1; 
   }
+  
 }
+
+
+
+.btn-primary, .btn-lg, .btn-sm {
+  background-color: $color-white;
+  border: none;
+  color: $clientcolor-2;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 50pt;
+  margin: auto 0;
+  margin-top: 20px;
+  box-shadow:5px 5px 3px 0px $color-grey-1;
+  line-height:25px;
+  border: 3px solid $clientcolor-2;
+  
+
+    &:hover{
+      background-color: $clientcolor-2 !important;
+      color: $color-white;
+      border: 3px solid $color-white;
+      transition-duration: 0,5s;
+     
+      
+  }
+}
+  
+
+
 
