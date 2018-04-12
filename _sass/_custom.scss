@@ -40,7 +40,9 @@ a .nav-logo img {
 background-color: $color-grey-0;
 }
 
-
+.foo img:last-child{display:none}
+.foo:hover img:first-child{display:none}
+.foo:hover img:last-child{display:inline-block}
 
 
 

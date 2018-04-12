@@ -21,37 +21,52 @@ We kunnen het logo op verschillende manieren interpreteren. We kunnen het zien a
 </div>
 
 <div class="container">
-    <div class="row">
-        <div class="col"> 
-        </div>
-        <div class="col"> 
-        <div class="col"> 
-        </div>
-        </div>
-        <div class="col">
-<a href="downloads/Logo_BgW.zip"><button type="button" class="btn btn-secondary btn-sm btn-block" id="downloadbutton">Download Logo</button></a>
-        </div>
-        <div class="col">
-        </div>
-    </div>
+<div class="row">
+<div class="col"> </div>
+<div class="col"> </div>
+<div class="col"> </div>
+<div class="col">
+<a href="downloads/Logo_BgW.zip"><button type="button" class="btn btn-secondary btn-lg btn-block" id="downloadbutton">Download Logo</button></a>
+
+
 </div>
-
-
+<div class="col"></div>
+</div>
+</div>  
 
 ## Gebruik
 We gebruiken het logo als we het over een project/minionderneming hebben of gewoon het overkoepelende Buitengewoon Werkt.
 In de pijl hebben we het woordje Buitengewoon. Dit duidt op het Buitengewoon onderwijs.
 In de stam van de pijl hebben we het woordje Werkt. Dit duidt op de verschillende projecten/miniondernemingen waarin de zesdejaars hun stage doen. 
 
-## Kleur
-We gebruiken de kleuren van Sint-Idesbald om een samenhorigheid uit te stralen.
+## Opbouw
+<div class="container">
+<div class="row">
+<div class="col"> <img src="{{ '/images/afmetingen-logo.jpg' | relative_url }}" alt="logo_afmetingen" class="w-100">
+</div>
+<div class="col"><img src="{{ '/images/perspectief.png' | relative_url }}" alt="logo_afmetingen" class="w-100">
+ </div>
+</div>
+<div class="row">
+<div class="col"><img src="{{ '/images/fascinate.jpg' | relative_url }}" alt="logo_afmetingen" class="w-100"></div>
+<div class="col"></div>
+  </div>
 
-We gebruiken het logo altijd in zijn geheel.
 
 ## Grootte
-We hebben 2 soorten logo’s afhankelijk van de grootte. 
+<div class="container">
+<div class="row">
+<div class="col"><img src="{{ '/images/Logo_grootte.jpg' | relative_url }}" alt="logo_donts" class="w-100">
+ </div>
+ <div class="col"> We hebben 2 soorten logo’s afhankelijk van de grootte. 
 De minimumhoogte voor het hoofdlogo is 2cm. 
 Als het logo kleiner komt de staan met een hoogte kleiner dan 2cm, wordt het 2e logo gebruikt. Hier zijn de detaillijnen in de woorden weg, dit verhoogt de leesbaarheid. 
+</div>
+ </div>
+  </div>
+  
+  
+
 
 In samenplaatsing met het logo van Sint-Idesbald moeten beide logo’s optisch evenveel aanwezig zijn. 
 
@@ -79,7 +94,28 @@ In samenplaatsing met het logo van Sint-Idesbald moeten beide logo’s optisch e
 
 
 ## Gebruik van foto’s
-Het logo kan als watermerk gebruikt worden voor project gerelateerde beelden. We plaatsen het logo op een plaats waar het zichtbaar is, maar toch het beeld niet stoort. Dit in de linkeronderhoek of de rechteronderhoek op de bepaalde afstand. 
+Het logo kan als watermerk gebruikt worden voor project gerelateerde beelden. We plaatsen het logo op een plaats waar het zichtbaar is, maar toch het beeld niet stoort. Dit in de linkeronderhoek of de rechteronderhoek op de bepaalde afstand. Als we het logo centraal op een foto willen zetten, zorgen we ervoor dat de foto niet te druk of licht is, anders gaan we de foto blurren. 
+
+<div class="container">
+<div class="row">
+<div class="col"> <div class="foo">
+<img src="{{ '/images/logo-op-foto-rechthoek.jpg' | relative_url }}" alt="logo_donts" class="w-100">
+<img src="{{ '/images/logo-op-foto-rechthoek-afm.jpg' | relative_url }}" alt="logo_donts" class="w-100">
+</div></div>
+<div class="col"><div class="foo">
+<img src="{{ '/images/logo-op-foto-vierkant.jpg' | relative_url }}" alt="logo_donts" class="w-100">
+<img src="{{ '/images/logo-op-foto-vierkant-afm.jpg' | relative_url }}" alt="logo_donts" class="w-100">
+</div> </div>
+<div class="col"><div class="foo">
+<img src="{{ '/images/logo-op-foto-wit.jpg' | relative_url }}" alt="logo_donts" class="w-100">
+<img src="{{ '/images/logo-op-foto-wit-afm.jpg' | relative_url }}" alt="logo_donts" class="w-100">
+</div> </div>
+</div> 
+</div>
+
+
+
+
 
 
 

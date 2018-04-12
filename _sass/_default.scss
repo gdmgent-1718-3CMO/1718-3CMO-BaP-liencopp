@@ -37,8 +37,12 @@ h2 {
     color: $clientcolor-2;
 }
 h3, h4, h5, h6 {
-    font-size: 1rem;
+    font-size: 1,5rem;
+font-weight: $font-weight-base;
     margin: 2rem 0 0;
+    text-decoration-line: underline;
+    text-decoration-color: $clientcolor-2;
+    padding-bottom:5px;
 }
 a {
     text-decoration: none;
@@ -54,7 +58,10 @@ a {
     &:focus{}
 }
 
-
+strong {
+    font-weight: $font-weight-base !important;
+    color: $clientcolor-2;
+}
 blockquote {
     padding-left: 24px;
     border-left: 2px solid $clientcolor-1;
