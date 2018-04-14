@@ -58,8 +58,12 @@ sticked to the bottom with small content pages
 }
 
 footer {
+  padding-top: 20px;
   text-align: center;  
-  font-size: 12px;  
+  font-size: 8px;  
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  line-height: 20px;
     background-color: $mycolor-2 !important;
     color: $color-white;
     z-index: 98;
