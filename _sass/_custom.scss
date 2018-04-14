@@ -30,11 +30,7 @@ body {
     border-bottom-right-radius: 10px;
    
 } 
-a .nav-logo img {
-  :hover{
-    border: none;
-  }
-}
+
 
 .order-md-12 {
 background-color: $color-grey-0;
@@ -43,6 +39,8 @@ background-color: $color-grey-0;
 .foo img:last-child{display:none}
 .foo:hover img:first-child{display:none}
 .foo:hover img:last-child{display:inline-block}
+.foo:active img:last-child{display:none}
+.foo:active img:first-child{display:inline-block}
 
 
 
@@ -57,6 +55,7 @@ sticked to the bottom with small content pages
   left: 0;
 }
 
+
 footer {
   padding-top: 20px;
   text-align: center;  
@@ -64,7 +63,7 @@ footer {
   text-transform: uppercase;
   letter-spacing: 1px;
   line-height: 20px;
-    background-color: $mycolor-2 !important;
+    background-color: $clientcolor-1 !important;
     color: $color-white;
     z-index: 98;
     a {
@@ -73,7 +72,15 @@ footer {
             
         }
     }
-    
+}
+.afbfooter{
+  height: 50px;
+  &:hover{
+    opacity: 0.5 !important;
+  }
+}
+.text-right{
+  float:right;
 }
 
 /* BACK TO TOP
