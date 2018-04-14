@@ -48,14 +48,19 @@ a {
     text-decoration: none;
     color: $body-link;
     &:hover {
-        padding: 8px 0px;
-        color: $clientcolor-1;
+        padding: 5px 0px;
+        color: $color-grey-2;
         border-bottom: solid 2px $clientcolor-2;
         text-decoration: none;
     }
 
    
     &:focus{}
+}
+#site {
+    :hover{
+        color: white !important;
+    }
 }
 
 
